@@ -1,0 +1,47 @@
+
+<!DOCTYPE html> 
+<html lang="ja">
+<head> 
+  <meta charset='Shift-JIS'> 
+  <meta http-equiv='X-UA-Compatible' content='IE=Edge'>  
+  <meta http-equiv='pragma' content='no-cache'> 
+  <meta http-equiv='cache-control' content='no-cache'> 
+   
+  <link rel='SHORTCUT ICON' href='/personal/favicon.ico'>
+  <link href='/personal/js/startbootstrap-simple-sidebar-master/css/simple-sidebar_custom_moc7.css?ctime=20190225201331' rel='stylesheet'>   
+  <link href='/personal/js/fontawesome-free-5.7.2-web/css/all.css' rel='stylesheet'>   
+   
+  <script src='/personal/js/jquery-3.3.1.min.js'></script> 
+ 
+  <!-- Bootstrap CSS --> 
+  <link href='/personal/css/scss_out/bootstrap_custom.css?ctime=20190621192742' rel='stylesheet'> 
+ 
+  <!-- bootstrap-datepicker --> 
+  <link href='/personal/js/bootstrap-datepicker-master/dist/css/bootstrap-datepicker.css' rel='stylesheet'> 
+  <script src='/personal/js/bootstrap-datepicker-master/js/bootstrap-datepicker.js'></script> 
+  <script src='/personal/js/bootstrap-datepicker-master/js/bootstrap-datepicker.ja_sjis.js'></script> 
+ 
+  <link href='/personal/css/raw_css/system_common.css?ctime=20220908192730' rel='stylesheet'>  
+ 
+  <script src='/personal/js/js-cookie-master/src/js.cookie.js'></script> 
+  <script src='/personal/js/common.js?ctime=20190816143349'></script> 
+<title>セッションエラー</title> 
+</head>
+<body class='h-100 C_menu_bgcolor ' >
+<div id='ID_CONTENT' class='C_bg-lightgray h-100' style='max-width:1280px;'>
+<div id='ID_NOMENU_CONTENT' class='p-3 C_bg-lightgray'>
+<div class='alert alert-danger' >
+<p>セッションに関して下記のエラーが発生しました。</p>
+<p class='text-center'>
+<span class='text-danger'>[ ERROR CD : -2 ] このURLではアクセスできません。改めてログインしなおしてください。（セッション情報なし）</span><br><a href='/personal/'>ログインページ</a></p>
+</div>
+<!-- </div id='ID_NOMENU_CONTENT' > -->
+</div>
+    <!-- Optional JavaScript --> 
+    <!-- jQuery first, then Popper.js, then Bootstrap JS --> 
+    <script src='/personal/js/popper-1.14.7.min.js'></script> 
+    <script src='/personal/bootstrap-4.3.1/dist/js/bootstrap.min.js'></script> 
+<!-- </div id='ID_CONTENT'> --> 
+</div> 
+</body>
+</html>
